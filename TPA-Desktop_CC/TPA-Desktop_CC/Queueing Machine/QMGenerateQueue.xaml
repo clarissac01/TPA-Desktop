@@ -1,0 +1,21 @@
+﻿<Window x:Class="TPA_Desktop_CC.Queueing_Machine.QMGenerateQueue"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TPA_Desktop_CC"
+        mc:Ignorable="d"
+        Title="Kong Bu Bank（孔布 银行）" Height="355.138" Width="398.466" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FFFFF5C3" Offset="0"/>
+                <GradientStop Color="#FF9452A5" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Image x:Name="qrcode" HorizontalAlignment="Left" Height="191" Margin="96,53,0,0" VerticalAlignment="Top" Width="206"/>
+        <Label x:Name="label" Content="" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Foreground="#FF803AB6" FontWeight="Bold" FontSize="14"/>
+        <Label x:Name="queueno" Content="" HorizontalAlignment="Left" Margin="308,10,0,0" VerticalAlignment="Top" FontSize="14" Foreground="#FF3E1360" FontWeight="Bold"/>
+        <Button Content="DONE" HorizontalAlignment="Left" Margin="159,264,0,0" VerticalAlignment="Top" Width="85" Background="#FFE6EDBF" BorderBrush="{x:Null}" Height="37" Foreground="#FF733D3D" FontSize="16" FontWeight="Bold" Click="done"/>
+    </Grid>
+</Window>

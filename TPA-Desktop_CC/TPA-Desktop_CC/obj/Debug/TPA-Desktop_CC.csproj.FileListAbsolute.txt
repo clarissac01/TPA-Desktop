@@ -1,0 +1,493 @@
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\TPA-Desktop_CC.exe.config
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\TPA-Desktop_CC.exe
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\TPA-Desktop_CC.pdb
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA-Desktop_CC.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA-Desktop_CC_MarkupCompile.cache
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA-Desktop_CC_MarkupCompile.lref
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA-Desktop_CC.g.resources
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA_Desktop_CC.Properties.Resources.resources
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA-Desktop_CC.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA-Desktop_CC.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA-Desktop_CC.exe
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA-Desktop_CC.pdb
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\Google.Protobuf.dll
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\MySql.Data.dll
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\Renci.SshNet.dll
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\System.Buffers.dll
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\System.Memory.dll
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\Zstandard.Net.dll
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\Google.Protobuf.pdb
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\Google.Protobuf.xml
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\MySql.Data.xml
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\Renci.SshNet.xml
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\System.Buffers.xml
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\System.Memory.xml
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA-Desktop_CC.csproj.CopyComplete
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\WindowLogin.g.cs
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\WindowLogin.baml
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\QRCoder.dll
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Others.g.cs
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Others.baml
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMDeposit.g.cs
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMtftoRA.g.cs
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMtftoVA.g.cs
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMTransfer.g.cs
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMWindow.g.cs
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\DepositMoney.g.cs
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\FindCustomer.g.cs
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\FindCustomerByAccountNum.g.cs
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\FindCustomerByName.g.cs
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\InputAccNum.g.cs
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\Payments.g.cs
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\PinConfirmationATM.g.cs
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\QRCode.g.cs
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\TellerWindow.g.cs
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\TransferMoney.g.cs
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\WithdrawMoney.g.cs
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMDeposit.baml
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMtftoRA.baml
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMtftoVA.baml
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMTransfer.baml
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMWindow.baml
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\DepositMoney.baml
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\FindCustomer.baml
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\FindCustomerByAccountNum.baml
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\FindCustomerByName.baml
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\InputAccNum.baml
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\Payments.baml
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\PinConfirmationATM.baml
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\QRCode.baml
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\TellerWindow.baml
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\TransferMoney.baml
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\WithdrawMoney.baml
+C:\Users\USER\Desktop\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMWithdrawMoney.g.cs
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA-Desktop_CC.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMDeposit.g.cs
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMtftoRA.g.cs
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMtftoVA.g.cs
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMTransfer.g.cs
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMWindow.g.cs
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMWithdrawMoney.g.cs
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\DepositMoney.g.cs
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\FindCustomer.g.cs
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\FindCustomerByAccountNum.g.cs
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\FindCustomerByName.g.cs
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\InputAccNum.g.cs
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Others.g.cs
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\Payments.g.cs
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\PinConfirmationATM.g.cs
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\QRCode.g.cs
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\TellerWindow.g.cs
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\TransferMoney.g.cs
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\WindowLogin.g.cs
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\WithdrawMoney.g.cs
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA-Desktop_CC_MarkupCompile.cache
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA-Desktop_CC_MarkupCompile.lref
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA-Desktop_CC.exe
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA-Desktop_CC.pdb
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\TPA-Desktop_CC.exe.config
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\TPA-Desktop_CC.exe
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\TPA-Desktop_CC.pdb
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\Google.Protobuf.dll
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\MySql.Data.dll
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\QRCoder.dll
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\Renci.SshNet.dll
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\System.Buffers.dll
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\System.Memory.dll
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\Zstandard.Net.dll
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\Google.Protobuf.pdb
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\Google.Protobuf.xml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\MySql.Data.xml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\Renci.SshNet.xml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\System.Buffers.xml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\System.Memory.xml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMDeposit.baml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMtftoRA.baml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMtftoVA.baml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMTransfer.baml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMWindow.baml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMWithdrawMoney.baml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\DepositMoney.baml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\FindCustomer.baml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\FindCustomerByAccountNum.baml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\FindCustomerByName.baml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\InputAccNum.baml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Others.baml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\Payments.baml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\PinConfirmationATM.baml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\QRCode.baml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\TellerWindow.baml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\TransferMoney.baml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\WindowLogin.baml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\WithdrawMoney.baml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA-Desktop_CC.g.resources
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA_Desktop_CC.Properties.Resources.resources
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA-Desktop_CC.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA-Desktop_CC.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA-Desktop_CC.csproj.CopyComplete
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMPayments.g.cs
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMPayments.baml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSCheckTransaction.g.cs
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSFindCustomer.g.cs
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSFindCustomerByAccountNum.g.cs
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSFindCustomerByName.g.cs
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSWindow.g.cs
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSCheckTransaction.baml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSFindCustomer.baml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSFindCustomerByAccountNum.baml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSFindCustomerByName.baml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSWindow.baml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSQRCode.g.cs
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSQRCode.baml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Security and Maintenance Team\SMWindow.g.cs
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Security and Maintenance Team\SMWindow.baml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Security and Maintenance Team\SMViewSchedule.g.cs
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Security and Maintenance Team\SMViewSchedule.baml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Security and Maintenance Team\SMHandleItems.g.cs
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Security and Maintenance Team\SMReportItem.g.cs
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Security and Maintenance Team\SMHandleItems.baml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Security and Maintenance Team\SMReportItem.baml
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Security and Maintenance Team\SMManageItem.g.cs
+C:\Users\USER\Desktop\Folder\TPA Desktop\TPA-Desktop\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Security and Maintenance Team\SMManageItem.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA-Desktop_CC.csprojAssemblyReference.cache
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMDeposit.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMPayments.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMtftoRA.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMtftoVA.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMTransfer.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMWindow.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMWithdrawMoney.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSCheckTransaction.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSFindCustomer.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSFindCustomerByAccountNum.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSFindCustomerByName.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSQRCode.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSWindow.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMAvailablePositions.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMCandidateEmployee.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMCurrentEmployee.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMHandleEmployee.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMManageEmployee.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMRecruitment.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMWindow.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Security and Maintenance Team\SMHandleItems.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Security and Maintenance Team\SMManageItem.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Security and Maintenance Team\SMReportItem.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Security and Maintenance Team\SMViewSchedule.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Security and Maintenance Team\SMWindow.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\DepositMoney.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\FindCustomer.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\FindCustomerByAccountNum.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\FindCustomerByName.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\InputAccNum.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Others.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\Payments.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\PinConfirmationATM.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\QRCode.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\TellerWindow.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\TransferMoney.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\WindowLogin.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\WithdrawMoney.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\App.g.cs
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA-Desktop_CC_MarkupCompile.cache
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA-Desktop_CC_MarkupCompile.lref
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA-Desktop_CC.exe
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA-Desktop_CC.pdb
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\TPA-Desktop_CC.exe.config
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\TPA-Desktop_CC.exe
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\TPA-Desktop_CC.pdb
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\BouncyCastle.Crypto.dll
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\Google.Protobuf.dll
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\K4os.Compression.LZ4.dll
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\K4os.Hash.xxHash.dll
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\MySql.Data.dll
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\QRCoder.dll
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\Renci.SshNet.dll
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\System.Buffers.dll
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\System.Memory.dll
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\System.Numerics.Vectors.dll
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\Ubiety.Dns.Core.dll
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\Zstandard.Net.dll
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\Google.Protobuf.pdb
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\Google.Protobuf.xml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\K4os.Compression.LZ4.xml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\K4os.Hash.xxHash.xml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\MySql.Data.xml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\Renci.SshNet.xml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\System.Buffers.xml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\System.Memory.xml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\System.Numerics.Vectors.xml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMDeposit.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMPayments.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMtftoRA.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMtftoVA.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMTransfer.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMWindow.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMWithdrawMoney.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSCheckTransaction.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSFindCustomer.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSFindCustomerByAccountNum.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSFindCustomerByName.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSQRCode.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSWindow.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMAvailablePositions.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMCandidateEmployee.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMCurrentEmployee.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMHandleEmployee.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMManageEmployee.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMRecruitment.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMWindow.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Security and Maintenance Team\SMHandleItems.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Security and Maintenance Team\SMManageItem.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Security and Maintenance Team\SMReportItem.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Security and Maintenance Team\SMViewSchedule.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Security and Maintenance Team\SMWindow.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\DepositMoney.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\FindCustomer.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\FindCustomerByAccountNum.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\FindCustomerByName.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\InputAccNum.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Others.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\Payments.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\PinConfirmationATM.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\QRCode.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\TellerWindow.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\TransferMoney.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\WindowLogin.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\WithdrawMoney.baml
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA-Desktop_CC.g.resources
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA_Desktop_CC.Properties.Resources.resources
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA-Desktop_CC.csproj.GenerateResource.cache
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA-Desktop_CC.csproj.CoreCompileInputs.cache
+D:\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA-Desktop_CC.csproj.CopyComplete
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\TPA-Desktop_CC.exe.config
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\TPA-Desktop_CC.exe
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\TPA-Desktop_CC.pdb
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\Google.Protobuf.dll
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\MySql.Data.dll
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\QRCoder.dll
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\Renci.SshNet.dll
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\System.Buffers.dll
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\System.Memory.dll
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\Zstandard.Net.dll
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\Google.Protobuf.pdb
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\Google.Protobuf.xml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\MySql.Data.xml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\Renci.SshNet.xml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\System.Buffers.xml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\System.Memory.xml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA-Desktop_CC.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMDeposit.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMPayments.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMtftoRA.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMtftoVA.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMTransfer.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMWindow.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMWithdrawMoney.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSCheckTransaction.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSFindCustomer.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSFindCustomerByAccountNum.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSFindCustomerByName.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSQRCode.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSWindow.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMAvailablePositions.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMCandidateEmployee.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMCurrentEmployee.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMHandleEmployee.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMManageEmployee.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMRecruitment.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMWindow.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Security and Maintenance Team\SMHandleItems.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Security and Maintenance Team\SMManageItem.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Security and Maintenance Team\SMReportItem.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Security and Maintenance Team\SMViewSchedule.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Security and Maintenance Team\SMWindow.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\DepositMoney.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\FindCustomer.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\FindCustomerByAccountNum.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\FindCustomerByName.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\InputAccNum.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Others.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\Payments.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\PinConfirmationATM.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\QRCode.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\TellerWindow.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\TransferMoney.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\WindowLogin.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\WithdrawMoney.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA-Desktop_CC_MarkupCompile.cache
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA-Desktop_CC_MarkupCompile.lref
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMDeposit.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMPayments.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMtftoRA.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMtftoVA.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMTransfer.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMWindow.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\ATMWithdrawMoney.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSCheckTransaction.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSFindCustomer.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSFindCustomerByAccountNum.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSFindCustomerByName.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSQRCode.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSWindow.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMAvailablePositions.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMCandidateEmployee.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMCurrentEmployee.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMHandleEmployee.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMManageEmployee.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMRecruitment.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMWindow.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Security and Maintenance Team\SMHandleItems.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Security and Maintenance Team\SMManageItem.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Security and Maintenance Team\SMReportItem.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Security and Maintenance Team\SMViewSchedule.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Security and Maintenance Team\SMWindow.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\DepositMoney.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\FindCustomer.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\FindCustomerByAccountNum.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\FindCustomerByName.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\InputAccNum.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Others.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\Payments.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\ATM\PinConfirmationATM.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\QRCode.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\TellerWindow.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\TransferMoney.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\WindowLogin.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\WithdrawMoney.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA-Desktop_CC.g.resources
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA_Desktop_CC.Properties.Resources.resources
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA-Desktop_CC.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA-Desktop_CC.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA-Desktop_CC.csproj.CopyComplete
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA-Desktop_CC.exe
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\TPA-Desktop_CC.pdb
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Queueing Machine\QMCreateQueue.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Queueing Machine\QMGenerateQueue.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Queueing Machine\QMShowQueue.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Queueing Machine\QMWindow.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Queueing Machine\QMCreateQueue.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Queueing Machine\QMGenerateQueue.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Queueing Machine\QMShowQueue.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Queueing Machine\QMWindow.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSRate.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSRate.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\TellerRate.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\TellerRate.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\TellerOthers.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\TellerReportItem.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\TellerOthers.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Teller\TellerReportItem.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMOthers.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMReportItem.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMOthers.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMReportItem.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSOthers.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSReportItem.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Manager\ManagerViewExpensesAndRevenueReport.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Manager\ManagerViewHumanResourceReport.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Manager\ManagerViewReport.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Manager\ManagerWindow.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\bin\Debug\WPFToolkit.dll
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSOthers.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSReportItem.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Manager\ManagerViewExpensesAndRevenueReport.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Manager\ManagerViewHumanResourceReport.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Manager\ManagerViewReport.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Manager\ManagerWindow.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Manager\ManagerTransactionReportTranscript.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Manager\ManagerTransactionReportTranscript.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Manager\ManagerExpensesAndRevenueReportTranscript.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Manager\ManagerExpensesAndRevenueReportTranscript.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Manager\ManagerHandleFiring.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Manager\ManagerHandleFiring.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Manager\ManagerHandleEmployee.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Manager\ManagerHandleEmployee.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Manager\ManagerHE.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Manager\ManagerViewFireRequest.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Manager\ManagerHE.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Manager\ManagerViewFireRequest.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Manager\ManagerAccResignationRequest.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Manager\ManagerViewResignation.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Manager\ManagerAccResignationRequest.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Manager\ManagerViewResignation.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Manager\ManagerCheckFireRequest.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Manager\ManagerCheckRequest.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Manager\ManagerCheckFireRequest.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Manager\ManagerCheckRequest.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMFireEmployee.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMViewEmployee.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMFireEmployee.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMViewEmployee.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMViolation.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMViolation.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMRecruitmentWindow.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMRecruitmentWindow.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMInsertEmployee.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMInsertEmployee.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMLeavingPermit.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Human Resource Management Team\HRMLeavingPermit.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSChooseLoans.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSIndividualLoans.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Finance\FinanceWindow.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSChooseLoans.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSIndividualLoans.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\Finance\FinanceWindow.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSInputIndividualLoan.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSInputIndividualLoan.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSBusinessLoan.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSInputBusinessLoan.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSBusinessLoan.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSInputBusinessLoan.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSChooseAccount.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSIndividualAcc.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSChooseAccount.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSIndividualAcc.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSDepositAcc.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSSavingAcc.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSDepositAcc.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSSavingAcc.baml

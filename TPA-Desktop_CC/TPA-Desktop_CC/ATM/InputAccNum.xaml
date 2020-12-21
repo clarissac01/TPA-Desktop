@@ -1,0 +1,33 @@
+﻿<Window x:Class="TPA_Desktop_CC.InputAccNum"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TPA_Desktop_CC"
+        mc:Ignorable="d"
+        Title="Kong Bu Bank（孔布 银行）" Height="355.138" Width="398.466" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF9DABDD" Offset="0"/>
+                <GradientStop Color="#FFD9EFFC" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Label Content="Input Your Account Number" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="36,18,0,0" Height="47" Width="321" FontSize="22" FontWeight="Bold" Foreground="#FF060943" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="acctxt" HorizontalAlignment="Left" Height="43" Margin="36,65,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="321" BorderBrush="{x:Null}" Foreground="#FF163976" FontSize="28" HorizontalContentAlignment="Center" VerticalContentAlignment="Center">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0.5"/>
+            </TextBox.Background>
+        </TextBox>
+        <Button Content="SUBMIT" HorizontalAlignment="Left" VerticalAlignment="Top" Width="133" Margin="126,262,0,0" Height="43" Background="#FFE27E7E" FontSize="22" BorderBrush="{x:Null}" Foreground="White" FontWeight="Bold" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Click="Button_Click"/>
+        <Label x:Name="label" Content="" HorizontalAlignment="Left" Margin="36,215,0,0" VerticalAlignment="Top" Width="321" Foreground="#FF622D2D" FontSize="18" FontFamily="Segoe UI Symbol" HorizontalContentAlignment="Center"/>
+        <Label Content="Input Your PIN" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="36,106,0,0" Height="47" Width="321" FontSize="22" FontWeight="Bold" Foreground="#FF060943" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <PasswordBox x:Name="pintxt" HorizontalAlignment="Left" Margin="36,153,0,0" VerticalAlignment="Top" Width="321" Height="43" BorderBrush="{x:Null}" FontSize="28" Foreground="#FF050A2F" HorizontalContentAlignment="Center" VerticalContentAlignment="Center">
+            <PasswordBox.Background>
+                <SolidColorBrush Color="White" Opacity="0.5"/>
+            </PasswordBox.Background>
+        </PasswordBox>
+        <Button Content="CANCEL" HorizontalAlignment="Left" Margin="12,282,0,0" VerticalAlignment="Top" Width="59" Height="26" Background="#FFC575E7" BorderBrush="{x:Null}" Foreground="#FFE5D5F9" FontWeight="Bold" Click="back"/>
+
+    </Grid>
+</Window>

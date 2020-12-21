@@ -1,0 +1,29 @@
+﻿<Window x:Class="TPA_Desktop_CC.Manager.ManagerViewReport"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TPA_Desktop_CC.Manager"
+        mc:Ignorable="d"
+        Title="Kong Bu Bank（孔布 银行）" Height="436.738" Width="574.466" ResizeMode="NoResize" WindowStartupLocation="CenterScreen"
+        xmlns:chartingToolkit="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF968EA9" Offset="0"/>
+                <GradientStop Color="#FFFBA581" Offset="1"/>
+                <GradientStop Color="#FFD6959A" Offset="0.504"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <chartingToolkit:Chart Canvas.Top="150" Canvas.Left="10" Margin="0,0,10,67.2" BorderBrush="{x:Null}" Name="linechart" >
+            <chartingToolkit:Chart.Series>
+                <chartingToolkit:LineSeries Title="Transactions" IndependentValueBinding="{Binding Path=Key}"  
+DependentValueBinding="{Binding Path=Value}" Margin="0,0,0.4,-0.8">
+                </chartingToolkit:LineSeries>
+            </chartingToolkit:Chart.Series>
+        </chartingToolkit:Chart>
+        <Label Content="Transactions Report This Month" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" Background="{x:Null}" Foreground="#FF1A034F"/>
+        <Button Content="REPORT TRANSCRIPT" HorizontalAlignment="Left" Margin="170,330,0,0" VerticalAlignment="Top" Width="237" Height="52" BorderBrush="{x:Null}" Background="#FFB7E8BB" Foreground="#FF371A6F" FontWeight="Bold" FontSize="20" Click="Button_Click_1"/>
+        <Button Content="BACK" HorizontalAlignment="Left" Margin="10,365,0,0" VerticalAlignment="Top" Width="55" Height="29" FontSize="16" Background="#FFBA5555" Foreground="#FFD6B6B6" Click="backbutton"/>
+    </Grid>
+</Window>

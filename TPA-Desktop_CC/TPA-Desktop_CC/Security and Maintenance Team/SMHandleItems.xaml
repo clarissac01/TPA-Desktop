@@ -1,0 +1,32 @@
+﻿<Window x:Class="TPA_Desktop_CC.Security_and_Maintenance_Team.SMHandleItems"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TPA_Desktop_CC"
+        mc:Ignorable="d"
+        Title="Kong Bu Bank（孔布 银行）" Height="355.138" Width="398.466" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <LinearGradientBrush.RelativeTransform>
+                    <TransformGroup>
+                        <ScaleTransform CenterY="0.5" CenterX="0.5"/>
+                        <SkewTransform CenterY="0.5" CenterX="0.5"/>
+                        <RotateTransform CenterY="0.5" CenterX="0.5" Angle="315"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </LinearGradientBrush.RelativeTransform>
+                <GradientStop Color="#FF79F1A4" Offset="0"/>
+                <GradientStop Color="#FF0E5CAD" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Label Content="Handle Items" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16" Foreground="#FF042951"/>
+        <ListBox x:Name="listbox" HorizontalAlignment="Left" Height="225" Margin="10,47,0,0" VerticalAlignment="Top" Width="358" Padding="10" FontSize="14" SelectionChanged="selectitem">
+            <ListBox.Background>
+                <SolidColorBrush Color="White" Opacity="0.5"/>
+            </ListBox.Background>
+        </ListBox>
+        <Button Content="BACK" HorizontalAlignment="Left" Margin="146,279,0,0" VerticalAlignment="Top" Width="89" Height="30" Background="#FFE5E8A4" BorderBrush="{x:Null}" Foreground="#FF6C0E0E" FontSize="17" FontWeight="Bold" Click="Button_Click"/>
+    </Grid>
+</Window>

@@ -1,0 +1,20 @@
+﻿TPA-Desktop_CC
+
+
+winexe
+C#
+.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\
+TPA_Desktop_CC
+none
+false
+DEBUG;TRACE
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\App.xaml
+80-2071943509
+
+90-1109606865
+1381495728124
+ATM\ATMDeposit.xaml;ATM\ATMPayments.xaml;ATM\ATMtftoRA.xaml;ATM\ATMtftoVA.xaml;ATM\ATMTransfer.xaml;ATM\ATMWindow.xaml;ATM\ATMWithdrawMoney.xaml;CustomerService\CSBusinessLoan.xaml;CustomerService\CSCheckTransaction.xaml;CustomerService\CSChooseAccount.xaml;CustomerService\CSChooseLoans.xaml;CustomerService\CSDepositAcc.xaml;CustomerService\CSFindCustomer.xaml;CustomerService\CSFindCustomerByAccountNum.xaml;CustomerService\CSFindCustomerByName.xaml;CustomerService\CSIndividualAcc.xaml;CustomerService\CSIndividualLoans.xaml;CustomerService\CSInputBusinessLoan.xaml;CustomerService\CSInputIndividualLoan.xaml;CustomerService\CSOthers.xaml;CustomerService\CSQRCode.xaml;CustomerService\CSRate.xaml;CustomerService\CSReportItem.xaml;CustomerService\CSSavingAcc.xaml;CustomerService\CSWindow.xaml;Finance\FinanceWindow.xaml;Human Resource Management Team\HRMAvailablePositions.xaml;Human Resource Management Team\HRMCandidateEmployee.xaml;Human Resource Management Team\HRMCurrentEmployee.xaml;Human Resource Management Team\HRMFireEmployee.xaml;Human Resource Management Team\HRMHandleEmployee.xaml;Human Resource Management Team\HRMInsertEmployee.xaml;Human Resource Management Team\HRMLeavingPermit.xaml;Human Resource Management Team\HRMManageEmployee.xaml;Human Resource Management Team\HRMOthers.xaml;Human Resource Management Team\HRMRecruitment.xaml;Human Resource Management Team\HRMRecruitmentWindow.xaml;Human Resource Management Team\HRMReportItem.xaml;Human Resource Management Team\HRMViewEmployee.xaml;Human Resource Management Team\HRMViolation.xaml;Human Resource Management Team\HRMWindow.xaml;Manager\ManagerAccResignationRequest.xaml;Manager\ManagerCheckFireRequest.xaml;Manager\ManagerCheckRequest.xaml;Manager\ManagerExpensesAndRevenueReportTranscript.xaml;Manager\ManagerHandleEmployee.xaml;Manager\ManagerHandleFiring.xaml;Manager\ManagerHE.xaml;Manager\ManagerTransactionReportTranscript.xaml;Manager\ManagerViewExpensesAndRevenueReport.xaml;Manager\ManagerViewFireRequest.xaml;Manager\ManagerViewHumanResourceReport.xaml;Manager\ManagerViewReport.xaml;Manager\ManagerViewResignation.xaml;Manager\ManagerWindow.xaml;Queueing Machine\QMCreateQueue.xaml;Queueing Machine\QMGenerateQueue.xaml;Queueing Machine\QMShowQueue.xaml;Queueing Machine\QMWindow.xaml;Security and Maintenance Team\SMHandleItems.xaml;Security and Maintenance Team\SMManageItem.xaml;Security and Maintenance Team\SMReportItem.xaml;Security and Maintenance Team\SMViewSchedule.xaml;Security and Maintenance Team\SMWindow.xaml;Teller\DepositMoney.xaml;Teller\FindCustomer.xaml;Teller\FindCustomerByAccountNum.xaml;Teller\FindCustomerByName.xaml;ATM\InputAccNum.xaml;Others.xaml;Teller\Payments.xaml;ATM\PinConfirmationATM.xaml;Teller\QRCode.xaml;Teller\TellerOthers.xaml;Teller\TellerRate.xaml;Teller\TellerReportItem.xaml;Teller\TellerWindow.xaml;Teller\TransferMoney.xaml;WindowLogin.xaml;Teller\WithdrawMoney.xaml;
+
+False
+

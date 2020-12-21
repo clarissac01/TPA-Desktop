@@ -1,0 +1,26 @@
+﻿<Window x:Class="TPA_Desktop_CC.WithdrawMoney"
+       xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TPA_Desktop_CC"
+        mc:Ignorable="d"
+        Title="Kong Bu Bank（孔布 银行）" Height="232.738" Width="272.066" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FFE4A3A3" Offset="0"/>
+                <GradientStop Color="Bisque" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Label Content="Withdraw Money" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="197" Height="38" Background="{x:Null}" Foreground="#FF461C1C" FontWeight="Bold" FontSize="14"/>
+        <Label Content="Amount" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,46,0,0" Foreground="#FF201717" FontSize="16"/>
+        <TextBox x:Name="amountxt" HorizontalAlignment="Left" Height="27" Margin="109,49,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="142" FontSize="16" SpellCheck.IsEnabled="True" Foreground="#FF5C4747" BorderBrush="{x:Null}">
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0.5"/>
+            </TextBox.Background>
+        </TextBox>
+        <Button Content="BACK" HorizontalAlignment="Left" Margin="10,151,0,0" VerticalAlignment="Top" Width="55" Height="29" FontSize="16" Background="#FFBA5555" Foreground="#FFD6B6B6" Click="Button_Click"/>
+        <Button x:Name="donebutton" Content="DONE" HorizontalAlignment="Left" Margin="84,103,0,0" VerticalAlignment="Top" Width="105" Foreground="White" Background="#FFAD8C8C" Height="32" FontFamily="Yu Gothic UI Semilight" FontSize="16" BorderBrush="{x:Null}" Click="done"/>
+    </Grid>
+</Window>
