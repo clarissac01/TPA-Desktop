@@ -62,46 +62,46 @@ namespace TPA_Desktop_CC
             DataTable dt = new DataTable();
             dt = connect.executeQuery("select sum(amount) as 'Total' from transaction where transactiontype = 'Withdraw Money' and receiver = '" + customer.accountnumber + "' and date = current_date");
             DataRow data = dt.Rows[0];
-            if (Int32.Parse(data["Total"].ToString()) + Int32.Parse(amountxt.Text.ToString()) > 2500000 && customer.type == "Bronze")
-            {
-                MessageBox.Show("You have achieved the limit of withdraw money today!");
-                Window a = new TellerWindow(employee);
-                a.Show();
-                this.Close();
-                return;
-            }
-            if (Int32.Parse(data["Total"].ToString()) + Int32.Parse(amountxt.Text.ToString()) > 5000000 && customer.type == "Silver")
-            {
-                MessageBox.Show("You have achieved the limit of withdraw money today!");
-                Window a = new TellerWindow(employee);
-                a.Show();
-                this.Close();
-                return;
-            }
-            if (Int32.Parse(data["Total"].ToString()) + Int32.Parse(amountxt.Text.ToString()) > 7500000 && customer.type == "Gold")
-            {
-                MessageBox.Show("You have achieved the limit of withdraw money today!");
-                Window a = new TellerWindow(employee);
-                a.Show();
-                this.Close();
-                return;
-            }
-            if (Int32.Parse(data["Total"].ToString()) + Int32.Parse(amountxt.Text.ToString()) > 10000000 && customer.type == "Black")
-            {
-                MessageBox.Show("You have achieved the limit of withdraw money today!");
-                Window a = new TellerWindow(employee);
-                a.Show();
-                this.Close();
-                return;
-            }
-            if (Int32.Parse(data["Total"].ToString()) + Int32.Parse(amountxt.Text.ToString()) > 1000000 && customer.type == "Student")
-            {
-                MessageBox.Show("You have achieved the limit of withdraw money today!");
-                Window a = new TellerWindow(employee);
-                a.Show();
-                this.Close();
-                return;
-            }
+            //if (Int32.Parse(data["Total"].ToString()) + Int32.Parse(amountxt.Text.ToString()) > 2500000 && customer.type == "Bronze")
+            //{
+            //    MessageBox.Show("You have achieved the limit of withdraw money today!");
+            //    Window a = new TellerWindow(employee);
+            //    a.Show();
+            //    this.Close();
+            //    return;
+            //}
+            //if (Int32.Parse(data["Total"].ToString()) + Int32.Parse(amountxt.Text.ToString()) > 5000000 && customer.type == "Silver")
+            //{
+            //    MessageBox.Show("You have achieved the limit of withdraw money today!");
+            //    Window a = new TellerWindow(employee);
+            //    a.Show();
+            //    this.Close();
+            //    return;
+            //}
+            //if (Int32.Parse(data["Total"].ToString()) + Int32.Parse(amountxt.Text.ToString()) > 7500000 && customer.type == "Gold")
+            //{
+            //    MessageBox.Show("You have achieved the limit of withdraw money today!");
+            //    Window a = new TellerWindow(employee);
+            //    a.Show();
+            //    this.Close();
+            //    return;
+            //}
+            //if (Int32.Parse(data["Total"].ToString()) + Int32.Parse(amountxt.Text.ToString()) > 10000000 && customer.type == "Black")
+            //{
+            //    MessageBox.Show("You have achieved the limit of withdraw money today!");
+            //    Window a = new TellerWindow(employee);
+            //    a.Show();
+            //    this.Close();
+            //    return;
+            //}
+            //if (Int32.Parse(data["Total"].ToString()) + Int32.Parse(amountxt.Text.ToString()) > 1000000 && customer.type == "Student")
+            //{
+            //    MessageBox.Show("You have achieved the limit of withdraw money today!");
+            //    Window a = new TellerWindow(employee);
+            //    a.Show();
+            //    this.Close();
+            //    return;
+            //}
 
             string id = customer.accountnumber;
 

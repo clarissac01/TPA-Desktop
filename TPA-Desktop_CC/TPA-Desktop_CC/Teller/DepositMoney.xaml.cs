@@ -89,46 +89,46 @@ namespace TPA_Desktop_CC
                 DataTable dt2 = new DataTable();
                 dt2 = connect.executeQuery("select sum(amount) as 'Total' from transaction where transactiontype in ('Transfer Money','Payments','Deposit Money') and senderaccnum = '" + sendercust.accountnumber + "' and date = current_date");
                 DataRow data = dt2.Rows[0];
-                if (Int32.Parse(data["Total"].ToString()) + balance > 2000000 && sendercust.type == "Bronze")
-                {
-                    MessageBox.Show("You have achieved the limit of transfer money today!");
-                    Window a = new TellerWindow(employee);
-                    a.Show();
-                    this.Close();
-                    return;
-                }
-                if (Int32.Parse(data["Total"].ToString()) + balance > 3000000 && sendercust.type == "Silver")
-                {
-                    MessageBox.Show("You have achieved the limit of transfer money today!");
-                    Window a = new TellerWindow(employee);
-                    a.Show();
-                    this.Close();
-                    return;
-                }
-                if (Int32.Parse(data["Total"].ToString()) + balance > 5000000 && sendercust.type == "Gold")
-                {
-                    MessageBox.Show("You have achieved the limit of transfer money today!");
-                    Window a = new TellerWindow(employee);
-                    a.Show();
-                    this.Close();
-                    return;
-                }
-                if (Int32.Parse(data["Total"].ToString()) + balance > 7000000 && sendercust.type == "Black")
-                {
-                    MessageBox.Show("You have achieved the limit of transfer money today!");
-                    Window a = new TellerWindow(employee);
-                    a.Show();
-                    this.Close();
-                    return;
-                }
-                if (Int32.Parse(data["Total"].ToString()) + balance > 500000 && sendercust.type == "Student")
-                {
-                    MessageBox.Show("You have achieved the limit of transfer money today!");
-                    Window a = new TellerWindow(employee);
-                    a.Show();
-                    this.Close();
-                    return;
-                }
+                //if (Int32.Parse(data["Total"].ToString()) + balance > 2000000 && sendercust.type == "Bronze")
+                //{
+                //    MessageBox.Show("You have achieved the limit of transfer money today!");
+                //    Window a = new TellerWindow(employee);
+                //    a.Show();
+                //    this.Close();
+                //    return;
+                //}
+                //if (Int32.Parse(data["Total"].ToString()) + balance > 3000000 && sendercust.type == "Silver")
+                //{
+                //    MessageBox.Show("You have achieved the limit of transfer money today!");
+                //    Window a = new TellerWindow(employee);
+                //    a.Show();
+                //    this.Close();
+                //    return;
+                //}
+                //if (Int32.Parse(data["Total"].ToString()) + balance > 5000000 && sendercust.type == "Gold")
+                //{
+                //    MessageBox.Show("You have achieved the limit of transfer money today!");
+                //    Window a = new TellerWindow(employee);
+                //    a.Show();
+                //    this.Close();
+                //    return;
+                //}
+                //if (Int32.Parse(data["Total"].ToString()) + balance > 7000000 && sendercust.type == "Black")
+                //{
+                //    MessageBox.Show("You have achieved the limit of transfer money today!");
+                //    Window a = new TellerWindow(employee);
+                //    a.Show();
+                //    this.Close();
+                //    return;
+                //}
+                //if (Int32.Parse(data["Total"].ToString()) + balance > 500000 && sendercust.type == "Student")
+                //{
+                //    MessageBox.Show("You have achieved the limit of transfer money today!");
+                //    Window a = new TellerWindow(employee);
+                //    a.Show();
+                //    this.Close();
+                //    return;
+                //}
 
                 string id = customer.accountnumber;
 

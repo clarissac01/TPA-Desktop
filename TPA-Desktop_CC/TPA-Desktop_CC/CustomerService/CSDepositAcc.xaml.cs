@@ -104,7 +104,7 @@ namespace TPA_Desktop_CC.CustomerService
             }
             DataTable dt2 = new DataTable();
             dt2 = connect.executeQuery("select * from deposit where accountnumber = '" + accnumtxt.Text.ToString() + "'");
-            if (dt2.Rows.Count == 0)
+            if (dt2.Rows.Count != 0)
             {
                 MessageBox.Show("User has already registered deposit account!");
                 accnumtxt.Text = "";

@@ -143,7 +143,7 @@ namespace TPA_Desktop_CC
             else if (action == "deposit")
             {
                 dt2 = new DataTable();
-                dt2 = connect.executeQuery("select * from deposit where accountnumber = '"+receiver.accountnumber+"' and enddate - currentdate > 0");
+                dt2 = connect.executeQuery("select * from deposit where accountnumber = '"+receiver.accountnumber+"' and enddate - current_date > 0");
 
                 int size = dt2.Rows.Count;
 
@@ -155,11 +155,11 @@ namespace TPA_Desktop_CC
                 connect.executeUpdate("update customer set balance = balance - "+amount+" where accountnumber = '"+sendercust.accountnumber+"'");
                 Double balance = 0;
                 DataRow dtrow = dt2.Rows[0];
-                if (Double.Parse(dtrow["currency"].ToString()).Equals("IDR"))
+                if ((dtrow["currency"].ToString()).Equals("IDR"))
                 {
                     balance = amount;
                 }
-                else if (Double.Parse(dtrow["currency"].ToString()).Equals("IDR"))
+                else if ((dtrow["currency"].ToString()).Equals("IDR"))
                 {
                     balance = amount / 10638;
                 }
