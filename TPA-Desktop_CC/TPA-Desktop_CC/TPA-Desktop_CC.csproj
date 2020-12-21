@@ -185,6 +185,9 @@
     <Compile Include="CustomerService\CSSavingAcc.xaml.cs">
       <DependentUpon>CSSavingAcc.xaml</DependentUpon>
     </Compile>
+    <Compile Include="CustomerService\CSVirtualAcc.xaml.cs">
+      <DependentUpon>CSVirtualAcc.xaml</DependentUpon>
+    </Compile>
     <Compile Include="CustomerService\CSWindow.xaml.cs">
       <DependentUpon>CSWindow.xaml</DependentUpon>
     </Compile>
@@ -457,6 +460,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="CustomerService\CSSavingAcc.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CustomerService\CSVirtualAcc.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

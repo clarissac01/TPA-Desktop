@@ -13,6 +13,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using System.Data;
 
 namespace TPA_Desktop_CC
 {
@@ -22,9 +23,10 @@ namespace TPA_Desktop_CC
     public partial class ATMtftoVA : Window
     {
         Customer customer;
-
+        ConnectDatabase connect;
         public ATMtftoVA(Customer cust)
         {
+            this.connect = ConnectDatabase.getInstance();
             this.customer = cust;
             InitializeComponent();
         }
@@ -36,18 +38,21 @@ namespace TPA_Desktop_CC
                 MessageBox.Show("Account Number Must Be Filled!");
                 return;
             }
-            if (amounttxt.Text == "")
-            {
-                MessageBox.Show("Amount Must Be Filled!");
-                return;
-            }
             if (customer.accountnumber == virtualacctxt.Text.ToString())
             {
                 MessageBox.Show("You cannot transfer to yourself!");
                 return;
             }
+            DataTable dt = new DataTable();
+            dt = connect.executeQuery("select * from virtualaccount where virtualaccount = '" + virtualacctxt.Text + "' and status = 'Not Paid'");
+            DataRow data = dt.Rows[0];
+            if (dt.Rows.Count == 0)
+            {
+                MessageBox.Show("This Virtual Account Is Invalid / Has Expired!");
+                return;
+            }
             label.Content = "";
-                Window a = new PinConfirmationATM(customer, virtualacctxt.Text.ToString(), Int32.Parse(amounttxt.Text.ToString()), "virtualacc");
+                Window a = new PinConfirmationATM(customer, virtualacctxt.Text.ToString(), Int32.Parse(data["amount"].ToString()) , "virtualacc");
                 a.Show();
                 this.Close();
             }

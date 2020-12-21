@@ -61,5 +61,11 @@ namespace TPA_Desktop_CC.CustomerService
             cschooseacc.Show();
             this.Close();
         }
+
+        private void createvirtualacc(object sender, RoutedEventArgs e)
+        {
+            new CSVirtualAcc(employee).Show();
+            this.Close();
+        }
     }
 }

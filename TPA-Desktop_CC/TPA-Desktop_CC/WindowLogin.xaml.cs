@@ -26,7 +26,9 @@ namespace TPA_Desktop_CC
         {
             this.connect = ConnectDatabase.getInstance();
             InitializeComponent();
-            connect.executeUpdate("update deposit set enddate = (enddate + time) from deposit where (enddate - current_date) = 0 and aro = 0");
+            connect.executeUpdate("update deposit set enddate = (enddate + time) where (enddate - current_date) = 0 and aro = 0");
+            connect.executeUpdate("update virtualaccount set status = 'Expired' where (enddate - current_date) < 0 and status = 'Not Paid'");
+            connect.executeUpdate("delete from virtualaccount where status = 'Paid'");
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)

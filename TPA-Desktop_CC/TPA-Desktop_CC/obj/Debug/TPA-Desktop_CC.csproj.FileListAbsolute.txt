@@ -491,3 +491,7 @@ C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-D
 C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSSavingAcc.g.cs
 C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSDepositAcc.baml
 C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSSavingAcc.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSBusinessAcc.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSVirtualAcc.g.cs
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSBusinessAcc.baml
+C:\Users\USER\Desktop\TPA-Desktop-master\TPA-Desktop-master\TPA-Desktop_CC\TPA-Desktop_CC\obj\Debug\CustomerService\CSVirtualAcc.baml

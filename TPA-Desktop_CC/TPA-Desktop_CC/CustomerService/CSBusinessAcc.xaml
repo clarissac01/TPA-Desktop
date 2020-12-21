@@ -5,8 +5,11 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TPA_Desktop_CC.CustomerService"
         mc:Ignorable="d"
-        Title="Kong Bu Bank（孔布 银行）" Height="433.538" Width="398.466" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+        Title="Kong Bu Bank（孔布 银行）" Height="334.538" Width="398.466" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
     <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
         <Grid.Background>
             <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
                 <LinearGradientBrush.RelativeTransform>
@@ -22,6 +25,36 @@
             </LinearGradientBrush>
         </Grid.Background>
         <Label Content="Create Business Account" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Foreground="#FF1B277A" FontSize="20" FontWeight="Bold"/>
+        <Label Content="Identity Card" HorizontalAlignment="Left" Margin="10,54,0,0" VerticalAlignment="Top" Foreground="#FF1B277A" FontSize="17"/>
+        <TextBox x:Name="idcardtxt" HorizontalAlignment="Left" Height="32" Margin="180,54,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="179" BorderBrush="{x:Null}" Foreground="#FF241463" VerticalContentAlignment="Center" FontSize="17" >
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0.5"/>
+            </TextBox.Background>
+        </TextBox>
+        <Button Content="SUBMIT" HorizontalAlignment="Left" Height="42" Margin="126,233,0,0" VerticalAlignment="Top" Width="137" BorderBrush="{x:Null}" FontSize="22" Foreground="#FF365274" Click="nextbtn">
+            <Button.Background>
+                <SolidColorBrush Color="#FF7BD38F" Opacity="0.75"/>
+            </Button.Background>
+        </Button>
+        <Button Content="BACK" HorizontalAlignment="Left" Margin="9,264,0,0" VerticalAlignment="Top" Width="54" Height="25" Background="#FFBA5555" BorderBrush="{x:Null}" Foreground="#FFD6B6B6" Click="backbtn" VerticalContentAlignment="Center" FontSize="14"/>
+        <ComboBox x:Name="combobox" HorizontalAlignment="Left" Margin="180,95,0,0" VerticalAlignment="Top" Width="178" Height="32" FontSize="16" BorderBrush="{x:Null}" Foreground="#FF151E5F" SelectionChanged="OnMyComboBoxChanged" VerticalContentAlignment="Center">
+            <ComboBox.Background>
+                <SolidColorBrush Color="Black" Opacity="0.5"/>
+            </ComboBox.Background>
+        </ComboBox>
+        <Label Content="Type" HorizontalAlignment="Left" Margin="10,95,0,0" VerticalAlignment="Top" Foreground="#FF1B277A" FontSize="17"/>
+        <Label Content="Amount" HorizontalAlignment="Left" Margin="10,138,0,0" VerticalAlignment="Top" Foreground="#FF1B277A" FontSize="17"/>
+        <TextBox x:Name="amountxt" HorizontalAlignment="Left" Height="32" Margin="180,139,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="179" BorderBrush="{x:Null}" Foreground="#FF241463" VerticalContentAlignment="Center" FontSize="17" >
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0.5"/>
+            </TextBox.Background>
+        </TextBox>
+        <Label x:Name="limitlabel" Content="Limit" HorizontalAlignment="Left" Margin="10,182,0,0" VerticalAlignment="Top" Foreground="#FF1B277A" FontSize="17"/>
+        <TextBox x:Name="limittxt" HorizontalAlignment="Left" Height="32" Margin="180,183,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="179" BorderBrush="{x:Null}" Foreground="#FF241463" VerticalContentAlignment="Center" FontSize="17" >
+            <TextBox.Background>
+                <SolidColorBrush Color="White" Opacity="0.5"/>
+            </TextBox.Background>
+        </TextBox>
 
     </Grid>
 </Window>

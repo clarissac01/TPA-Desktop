@@ -35,7 +35,8 @@ namespace TPA_Desktop_CC.CustomerService
 
         private void businessacc(object sender, RoutedEventArgs e)
         {
-
+            new CSBusinessAcc(employee).Show();
+            this.Close();
         }
 
         private void back(object sender, RoutedEventArgs e)

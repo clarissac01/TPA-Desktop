@@ -23,19 +23,24 @@
         </Grid.Background>
         <Label x:Name="hellotxt" Content="Hello" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="229" Height="40" Foreground="#FF6E1799" FontWeight="Bold" FontSize="18"/>
         <TextBlock HorizontalAlignment="Left" Margin="272,21,0,0" TextWrapping="Wrap" Text="Customer Service" VerticalAlignment="Top" Height="16" Width="95" FontFamily="Yu Gothic UI Semibold" Foreground="#FF3E0C5F"/>
-        <Button Content="CHECK TRANSACTIONS" HorizontalAlignment="Left" Margin="10,69,0,0" VerticalAlignment="Top" Width="151" Height="44" FontWeight="Bold" BorderBrush="{x:Null}" Foreground="#FF7A1111" Click="Button_Click_1">
+        <Button Content="CHECK TRANSACTIONS" HorizontalAlignment="Left" Margin="37,69,0,0" VerticalAlignment="Top" Width="151" Height="44" FontWeight="Bold" BorderBrush="{x:Null}" Foreground="#FF7A1111" Click="Button_Click_1">
             <Button.Background>
                 <SolidColorBrush Color="#FFFFFDB5" Opacity="0.8"/>
             </Button.Background>
         </Button>
         <Button Content="SIGN OUT" HorizontalAlignment="Left" Margin="311,286,0,0" VerticalAlignment="Top" Width="71" Height="29" Click="Button_Click" BorderBrush="{x:Null}" Background="#FF970808" Foreground="#FFDCB0B0"/>
         <Button Content="OTHERS" HorizontalAlignment="Left" Margin="10,286,0,0" VerticalAlignment="Top" Width="54" Background="#FFB0F3EF" Foreground="#FF070868" Height="29" BorderBrush="{x:Null}" Click="Button_Click_2"/>
-        <Button Content="HANDLE MONEY LOANS" HorizontalAlignment="Left" Margin="10,125,0,0" VerticalAlignment="Top" Width="151" Height="44" FontWeight="Bold" BorderBrush="{x:Null}" Foreground="#FF7A1111" Click="handlemoneyloans">
+        <Button Content="HANDLE MONEY LOANS" HorizontalAlignment="Left" Margin="37,125,0,0" VerticalAlignment="Top" Width="151" Height="44" FontWeight="Bold" BorderBrush="{x:Null}" Foreground="#FF7A1111" Click="handlemoneyloans">
             <Button.Background>
                 <SolidColorBrush Color="#FFFFFDB5" Opacity="0.8"/>
             </Button.Background>
         </Button>
-        <Button Content="CREATE ACCOUNT" HorizontalAlignment="Left" Margin="10,182,0,0" VerticalAlignment="Top" Width="151" Height="44" FontWeight="Bold" BorderBrush="{x:Null}" Foreground="#FF7A1111" Click="createaccount">
+        <Button Content="CREATE ACCOUNT" HorizontalAlignment="Left" Margin="37,182,0,0" VerticalAlignment="Top" Width="151" Height="44" FontWeight="Bold" BorderBrush="{x:Null}" Foreground="#FF7A1111" Click="createaccount">
+            <Button.Background>
+                <SolidColorBrush Color="#FFFFFDB5" Opacity="0.8"/>
+            </Button.Background>
+        </Button>
+        <Button Content="CREATE VIRTUAL ACC" HorizontalAlignment="Left" Margin="198,69,0,0" VerticalAlignment="Top" Width="151" Height="44" FontWeight="Bold" BorderBrush="{x:Null}" Foreground="#FF7A1111" Click="createvirtualacc">
             <Button.Background>
                 <SolidColorBrush Color="#FFFFFDB5" Opacity="0.8"/>
             </Button.Background>

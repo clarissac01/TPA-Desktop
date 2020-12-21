@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TPA_Desktop_CC"
         mc:Ignorable="d"
-        Title="Kong Bu Bank（孔布 银行）" Height="279.138" Width="398.466" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+        Title="Kong Bu Bank（孔布 银行）" Height="258.763" Width="398.466" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
 
     <Grid>
         <Grid.Background>
@@ -16,24 +16,18 @@
         </Grid.Background>
         <Label Content="Transfer Money" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="119" Height="29" Background="{x:Null}" Foreground="#FF1C3846" FontWeight="Bold" FontSize="14"/>
         <Label Content="Virtual Account" HorizontalAlignment="Left" Margin="10,45,0,0" VerticalAlignment="Top" Width="175" Height="33" FontSize="16" Foreground="#FF181720"/>
-        <TextBox x:Name="virtualacctxt" HorizontalAlignment="Left" Height="27" Margin="202,47,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" VerticalContentAlignment="Center" BorderBrush="{x:Null}" Foreground="#FF5C4747" FontSize="16">
+        <TextBox x:Name="virtualacctxt" HorizontalAlignment="Left" Height="27" Margin="202,47,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="168" VerticalContentAlignment="Center" BorderBrush="{x:Null}" Foreground="#FF5C4747" FontSize="16">
             <TextBox.Background>
                 <SolidColorBrush Color="White" Opacity="0.5"/>
             </TextBox.Background>
         </TextBox>
-        <Label Content="Input Amount" HorizontalAlignment="Left" Margin="10,83,0,0" VerticalAlignment="Top" Width="175" Height="33" FontSize="16" Foreground="#FF181720"/>
-        <TextBox x:Name="amounttxt" HorizontalAlignment="Left" Height="27" Margin="202,89,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" VerticalContentAlignment="Center" BorderBrush="{x:Null}" Foreground="#FF5C4747" FontSize="16">
-            <TextBox.Background>
-                <SolidColorBrush Color="White" Opacity="0.5"/>
-            </TextBox.Background>
-        </TextBox>
-        <Button Content="SUBMIT" HorizontalAlignment="Left" VerticalAlignment="Top" Width="133" Margin="126,171,0,0" Height="43" FontSize="22" BorderBrush="{x:Null}" Foreground="White" FontWeight="Bold" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Click="Button_Click">
+        <Button Content="SUBMIT" HorizontalAlignment="Left" VerticalAlignment="Top" Width="133" Margin="126,135,0,0" Height="43" FontSize="22" BorderBrush="{x:Null}" Foreground="White" FontWeight="Bold" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Click="Button_Click">
             <Button.Background>
                 <SolidColorBrush Color="#FFE27E7E" Opacity="0.8"/>
             </Button.Background>
         </Button>
-        <Label x:Name="label" Content="" HorizontalAlignment="Left" Margin="14,127,0,0" VerticalAlignment="Top" Width="368" Foreground="#FF622D2D" FontSize="18" FontFamily="Segoe UI Symbol" HorizontalContentAlignment="Center"/>
-        <Button Content="BACK" HorizontalAlignment="Left" Margin="10,212,0,0" VerticalAlignment="Top" Width="76" Height="28" BorderBrush="{x:Null}" Background="#FF8FB984" Foreground="#FF175C0C" FontWeight="Bold" FontSize="14" Click="Button_Click_1"/>
+        <Label x:Name="label" Content="" HorizontalAlignment="Left" Margin="14,91,0,0" VerticalAlignment="Top" Width="368" Foreground="#FF622D2D" FontSize="18" FontFamily="Segoe UI Symbol" HorizontalContentAlignment="Center"/>
+        <Button Content="BACK" HorizontalAlignment="Left" Margin="10,176,0,0" VerticalAlignment="Top" Width="76" Height="28" BorderBrush="{x:Null}" Background="#FF8FB984" Foreground="#FF175C0C" FontWeight="Bold" FontSize="14" Click="Button_Click_1"/>
 
     </Grid>
 </Window>

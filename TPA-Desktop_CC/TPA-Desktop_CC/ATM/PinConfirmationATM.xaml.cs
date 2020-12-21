@@ -73,48 +73,48 @@ namespace TPA_Desktop_CC
             }
 
             DataTable dt2 = new DataTable();
-            dt2 = connect.executeQuery("select sum(amount) as 'Total' from transaction where transactiontype in ('Transfer Money','Payments','Deposit Money') and senderaccnum = '" + sendercust.accountnumber + "' and date = current_date");
+            dt2 = connect.executeQuery("select sum(amount) as Total from transaction where transactiontype in ('Transfer Money','Payments','Deposit Money') and senderaccnum = '" + sendercust.accountnumber + "' and date = current_date");
             DataRow data = dt2.Rows[0];
-            if (Int32.Parse(data["Total"].ToString()) + amount > 2000000 && sendercust.type == "Bronze")
-            {
-                MessageBox.Show("You have achieved the limit of transfer money today!");
-                Window a = new ATMWindow(sendercust);
-                a.Show();
-                this.Close();
-                return;
-            }
-            if (Int32.Parse(data["Total"].ToString()) + amount > 3000000 && sendercust.type == "Silver")
-            {
-                MessageBox.Show("You have achieved the limit of transfer money today!");
-                Window a = new ATMWindow(sendercust);
-                a.Show();
-                this.Close();
-                return;
-            }
-            if (Int32.Parse(data["Total"].ToString()) + amount > 5000000 && sendercust.type == "Gold")
-            {
-                MessageBox.Show("You have achieved the limit of transfer money today!");
-                Window a = new ATMWindow(sendercust);
-                a.Show();
-                this.Close();
-                return;
-            }
-            if (Int32.Parse(data["Total"].ToString()) + amount > 7000000 && sendercust.type == "Black")
-            {
-                MessageBox.Show("You have achieved the limit of transfer money today!");
-                Window a = new ATMWindow(sendercust);
-                a.Show();
-                this.Close();
-                return;
-            }
-            if (Int32.Parse(data["Total"].ToString()) +amount > 500000 && sendercust.type == "Student")
-            {
-                MessageBox.Show("You have achieved the limit of transfer money today!");
-                Window a = new ATMWindow(sendercust);
-                a.Show();
-                this.Close();
-                return;
-            }
+            //if (long.Parse(data["Total"].ToString()) + amount > 2000000 && sendercust.type == "Bronze")
+            //{
+            //    MessageBox.Show("You have achieved the limit of transfer money today!");
+            //    Window a = new ATMWindow(sendercust);
+            //    a.Show();
+            //    this.Close();
+            //    return;
+            //}
+            //if (long.Parse(data["Total"].ToString()) + amount > 3000000 && sendercust.type == "Silver")
+            //{
+            //    MessageBox.Show("You have achieved the limit of transfer money today!");
+            //    Window a = new ATMWindow(sendercust);
+            //    a.Show();
+            //    this.Close();
+            //    return;
+            //}
+            //if (long.Parse(data["Total"].ToString()) + amount > 5000000 && sendercust.type == "Gold")
+            //{
+            //    MessageBox.Show("You have achieved the limit of transfer money today!");
+            //    Window a = new ATMWindow(sendercust);
+            //    a.Show();
+            //    this.Close();
+            //    return;
+            //}
+            //if (long.Parse(data["Total"].ToString()) + amount > 7000000 && sendercust.type == "Black")
+            //{
+            //    MessageBox.Show("You have achieved the limit of transfer money today!");
+            //    Window a = new ATMWindow(sendercust);
+            //    a.Show();
+            //    this.Close();
+            //    return;
+            //}
+            //if (long.Parse(data["Total"].ToString()) +amount > 500000 && sendercust.type == "Student")
+            //{
+            //    MessageBox.Show("You have achieved the limit of transfer money today!");
+            //    Window a = new ATMWindow(sendercust);
+            //    a.Show();
+            //    this.Close();
+            //    return;
+            //}
 
             if (action == "regularacc")
             {
@@ -129,10 +129,12 @@ namespace TPA_Desktop_CC
             }
             else if (action == "virtualacc")
             {
+                
                 connect.executeUpdate("update customer set balance = balance - "+amount+" where accountnumber = '"+ sendercust.accountnumber + "'");
 
                 connect.executeUpdate("insert into transaction values('"+ sendercust.name + "','"+ sendercust.accountnumber + "', 'Transfer Money', "+amount+", '"+ virtualacc + "', '', current_date)");
 
+                connect.executeUpdate("update virtualaccount set status = 'Paid' where virtualaccount = '" + virtualacc + "'");
                 MessageBox.Show("Success Transfer!");
                 Window atm = new ATMWindow(sendercust);
                 atm.Show();
